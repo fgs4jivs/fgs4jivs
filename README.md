@@ -21,7 +21,7 @@ I'm passionate about exploring new technologies and developing solutions that ma
 ## ��️ Tech Stack
 - **Frontend**: Angular, React, TypeScript, HTML5, CSS3, Vue.js
 - **Backend**: Node.js, Python, Java, .NET
-- **Databases**: PostgreSQL, MongoDB, MySQL, Redis
+- **Databases**: PostgreSQL, MongoDB, MySQL, Liquibase
 - **AI/ML**: TensorFlow, PyTorch, Scikit-learn, Pandas
 - **Cloud**: AWS, Azure, Google Cloud
 - **Tools**: Docker, Git, Jenkins, Kubernetes
