@@ -1,6 +1,6 @@
 # Hello, I'm Fernando Gonçalves 👋
 
-## 🚀 Full Stack Engineer | Data Solutions Specialist
+## 🚀 Full Stack Engineer 
 
 I'm a Full Stack Engineer at **Data Migrations International**, where I help organizations seamlessly transition and optimize their data infrastructure. Based in Zurich, Switzerland, I work with our talented team in Kreuzlingen to deliver cutting-edge data migration solutions.
 
